@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <Theme>
+        <XFont_0>_ 0 0 0 0 1</XFont_0>
+        <XFont_1>_ 1 0 0 0 1</XFont_1>
+        <XFont_2>_ 0 128 128 0 0</XFont_2>
+        <XFont_3>_ 0 0 128 128 0</XFont_3>
+        <XFont_4>_ 0 0 128 0 0</XFont_4>
+        <XFont_5>_ 0 255 0 255 0</XFont_5>
+        <XFont_6>_ 0 0 0 0 0</XFont_6>
+        <XFont_7>_ 0 0 0 0 0</XFont_7>
+        <XFont_8>_ 0 0 0 0 0</XFont_8>
+        <XFont_9>_ 2 128 128 128 0</XFont_9>
+        <XFont_10>_ 2 128 128 128 0</XFont_10>
+        <XFont_11>_ 2 0 0 160 0</XFont_11>
+        <XFont_12>_ 2 0 0 160 0</XFont_12>
+        <XFont_13>_ 1 0 0 0 1</XFont_13>
+        <XFont_14>_ 2 128 128 128 0</XFont_14>
+        <XFont_15>_ 2 128 128 128 0</XFont_15>
+        <XFont_16>_ 0 0 0 255 0</XFont_16>
+        <XFont_17>_ 0 255 0 0 0</XFont_17>
+        <XFont_18>_ 0 0 0 0 1</XFont_18>
+        <XFont_19>_ 0 0 0 255 0</XFont_19>
+        <XFont_20>_ 0 255 0 0 0</XFont_20>
+        <XFont_21>_ 0 128 128 128 0</XFont_21>
+        <XFontBaseEx>_ 255 255 255 0</XFontBaseEx>
+        <XFontBase>_ "Courier New" 9 0 22</XFontBase>
+        <Modified>_ 0</Modified>
+        <Type>_ "User"</Type>
+        <FixedFont>_ "Courier" 10 0</FixedFont>
+        <PropFont>_ "MS Sans Serif" 10 0</PropFont>
+        <Name>_ "Hasky Light Theme"</Name>
+    </Theme>
+</settings>
